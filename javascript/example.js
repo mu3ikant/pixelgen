@@ -1,6 +1,6 @@
 // specify the columns
 var columnDefs = [
-    {headerName: "1", field: "1"},
+    { field: "1"},
     {headerName: "2", field: "2"},
     {headerName: "3", field: "3"},
     {headerName: "4", field: "4"},
