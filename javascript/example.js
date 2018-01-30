@@ -9,7 +9,18 @@ var columnDefs = [
     {headerName: "7", field: "7"},
     {headerName: "8", field: "8"},
     {headerName: "9", field: "9"},
-    {headerName: "10", field: "10"}
+    {headerName: "10", field: "10"},
+    {headerName: "11", field: "11"},
+    {headerName: "12", field: "12"},
+    {headerName: "13", field: "13"},
+    {headerName: "14", field: "14"},
+    {headerName: "15", field: "15"},
+    {headerName: "16", field: "16"},
+    {headerName: "17", field: "17"},
+    {headerName: "18", field: "18"},
+    {headerName: "19", field: "19"},
+    {headerName: "20", field: "20"}
+    
 ];
 
 // specify the data
